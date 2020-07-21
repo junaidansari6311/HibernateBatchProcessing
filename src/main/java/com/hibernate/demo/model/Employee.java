@@ -1,4 +1,4 @@
-package model;
+package com.hibernate.demo.model;
 
 public class Employee {
     private int id;
